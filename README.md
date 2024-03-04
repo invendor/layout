@@ -1,2 +1,2 @@
-# layout
-Responsive layout holy grail
+# The layout
+Responsive layout holy grail 🫦
